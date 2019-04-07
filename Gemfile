@@ -17,7 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'mini_racer', platforms: :ruby
 gem 'bootstrap', '~> 4.3.1'
 
-gem 'devise'
+gem 'devise', '~> 4.6.0'
 
 gem 'friendly_id', '~> 5.2.4' # Note: You MUST use 5.0.0 or greater for Rails 4.0+
 
